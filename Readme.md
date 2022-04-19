@@ -74,7 +74,7 @@ You can deploy this bot anywhere.
 <p>
 <br>
 <a href="https://heroku.com/deploy?template=https://github.com/MoviesbizzBotz/Auto-Filter-Bot-V2/tree/main">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"?template=https://github.com/thilak200318/Auto-Filter-Bot-V2/edit/master/Readme.md>
 </a>
 </p>
 </details>
